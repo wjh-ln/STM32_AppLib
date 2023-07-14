@@ -47,7 +47,6 @@ void Console_t::Send(const char *str, ...)
                         count--;
                     }
                     break;
-                case 'f'
             }
             break;
         default:
